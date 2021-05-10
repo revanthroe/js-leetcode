@@ -1,0 +1,17 @@
+{
+    "name": "leetcode",
+    "version": "1.0.0",
+    "description": "leetcode js libraries",
+    "main": "index.js",
+    "author": "Venkata",
+    "private": true,
+    "dependencies": {
+        "bowser": "^2.7.0",
+        "del": "^5.1.0",
+        "lodash": "^4.17.15",
+        "js-priority-queue": "^0.1.5"
+
+    },
+    "scripts": {
+    }
+}
